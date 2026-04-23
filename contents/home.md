@@ -2,7 +2,8 @@
 
 **邮箱：**
 <code>TLKni@outlook.com</code>
-微信号：wxid_2z65z75jklqs22
+**微信号：**
+wxid_2z65z75jklqs22
 
 **教育背景：**
 

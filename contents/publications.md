@@ -7,7 +7,7 @@ IEEE Transactions on Industrial Electronics (Top Journal Q1, IF: 7.8)
 Zhiwei Li, Yifei Huan, et al.
 "A Robust Localization Algorithm for Wireless Sensor Networks in Disturbed Indoor Environments,"
 IEEE Transactions on Industrial Informatics (Top Journal Q1, IF: 9.9)
-Status: Under Review
+Status: Revision Required
 
 Yifei Huan, Zhiwei Li, et al.
 "基于双重误差加权的非视距抑制UWB定位算法 (A UWB Positioning Algorithm for NLOS Mitigation Based on Dual Error Weighting)"
@@ -17,7 +17,6 @@ Status: Under Review
 Cheng Zhong, Yifei Huan, et al.
 "基于CNN-GRU的GPS/INS车载定位补偿算法 (A GPS/INS Vehicle Positioning Compensation Algorithm Based on CNN-GRU)"
 控制工程 Control Engineering (Core Journal of China, IF: 0.781)
-Status: Accepted
 
 ***Patents：***
 
